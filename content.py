@@ -1,1 +1,1 @@
-print("avloc")
+print("cubrd")
