@@ -1,1 +1,1 @@
-print("qgamh")
+print("nruar")
